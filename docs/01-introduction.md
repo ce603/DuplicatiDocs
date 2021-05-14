@@ -111,7 +111,6 @@ The following Cloud Storage Providers are supported natively by Duplicati:
 * Dropbox
 * Google Cloud Storage
 * Google Drive
-* HubiC
 * Jottacloud
 * Mega.nz
 * Microsoft Office 365 Groups
@@ -128,6 +127,7 @@ The following Cloud Storage Providers are supported natively by Duplicati:
 Other supported targets:
 
 * Tahoe-LAFS
+* HubiC (No longer accepts new applicants)
 
 ## System requirements
 
